@@ -14,7 +14,7 @@
 
 
 ```sh
-git clone ###
+git clone https://github.com/ogdhruv/calendar_assignment.git
 ```
 ```sh
 cd calendar_assignment
