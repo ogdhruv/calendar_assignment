@@ -1,6 +1,6 @@
 <div align="center">
 
-# Weather Assignment
+# Calendar Assignment
 
     A pure Django based api for accessing user account and representing all the events
 
